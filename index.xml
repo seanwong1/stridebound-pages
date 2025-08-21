@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on StrideBound</title><link>https://stridebound.run/</link><description>Recent content in Home on StrideBound</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://stridebound.run/index.xml" rel="self" type="application/rss+xml"/><item><title>Changelog</title><link>https://stridebound.run/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stridebound.run/changelog/</guid><description>&lt;div class="card">
+ &lt;p>No entries yet.&lt;/p>
+&lt;/div></description></item><item><title>Features</title><link>https://stridebound.run/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stridebound.run/features/</guid><description>&lt;p>Pick items, hit the trail, encounter creatures, adopt pets. That’s the loop.&lt;/p>
+&lt;div class="card">
+ &lt;h2>Run Tracking&lt;/h2>
+ &lt;p>GPS, splits, and a route map, with Motion &amp; Fitness refinements if enabled.&lt;/p>
+&lt;/div>
+&lt;div class="card">
+ &lt;h2>Free Run Mode&lt;/h2>
+ &lt;p>Start or stop anytime, plus pause and resume on the fly.&lt;/p>
+&lt;/div>
+&lt;div class="card">
+ &lt;h2>Items &amp; Loadouts&lt;/h2>
+ &lt;p>Mix item combinations to influence what spawns on your run.&lt;/p>
+&lt;/div>
+&lt;div class="card">
+ &lt;h2>Adopt &amp; Grow Pets&lt;/h2>
+ &lt;p>Spend the rewards you earn to adopt creatures and level them up.&lt;/p></description></item><item><title>Press</title><link>https://stridebound.run/press/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stridebound.run/press/</guid><description>&lt;div class="card">
+ &lt;p>Press inquiries? Email &lt;a href="mailto:press@stridebound.com">press@stridebound.com&lt;/a>.&lt;/p>
+&lt;/div></description></item><item><title>Privacy Policy</title><link>https://stridebound.run/privacy.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stridebound.run/privacy.html</guid><description>&lt;div class="card">
+ &lt;p>This Privacy Policy explains how StrideBound (“we,” “us,” or “our”) handles information when you use the StrideBound iOS application (“the App”). We do not require you to create an account to use the App.&lt;/p>
+&lt;/div>
+&lt;div class="card">
+ &lt;h2>Summary&lt;/h2>
+ &lt;ul>
+ &lt;li>Location and motion data are used only while a run is active to power core features.&lt;/li>
+ &lt;li>Your run history stays on your device unless you back it up with iCloud.&lt;/li>
+ &lt;li>We never sell your data or share it for advertising.&lt;/li>
+ &lt;/ul>
+&lt;/div>
+&lt;div class="card">
+ &lt;h2>Data We Collect&lt;/h2>
+ &lt;ul>
+ &lt;li>&lt;strong>Location Data&lt;/strong> — GPS location is used to measure distance, pace, and draw your route map &lt;em>only while a run is active&lt;/em>. If you background the App during a run, location continues so the run is recorded accurately.&lt;/li>
+ &lt;li>&lt;strong>Motion &amp;amp; Fitness Data&lt;/strong> — If you grant permission, motion data (e.g., steps/cadence) may refine distance and pace calculations.&lt;/li>
+ &lt;li>&lt;strong>Diagnostics&lt;/strong> — Crash logs and basic analytics provided by Apple may be collected to improve stability. This information is not used to track you across apps.&lt;/li>
+ &lt;/ul>
+&lt;/div>
+&lt;div class="card">
+ &lt;h2>How We Use Data&lt;/h2>
+ &lt;ul>
+ &lt;li>Provide core features such as tracking your run, computing stats, and displaying routes.&lt;/li>
+ &lt;li>Operate optional game features (e.g., creature encounters tied to run progress).&lt;/li>
+ &lt;li>Maintain and improve the App, including debugging and performance analysis.&lt;/li>
+ &lt;/ul>
+&lt;/div>
+&lt;div class="card">
+ &lt;h2>Data Storage &amp;amp; Retention&lt;/h2>
+ &lt;p>Run history and settings are stored &lt;strong>on your device&lt;/strong>. If you enable iCloud backups, Apple may store an encrypted backup of your App data according to your iCloud settings. You can delete individual runs inside the App, or remove all App data by deleting the App from your device.&lt;/p></description></item><item><title>Support</title><link>https://stridebound.run/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stridebound.run/support/</guid><description>&lt;div class="card">
+ &lt;h2>Get Help&lt;/h2>
+ &lt;p>Need assistance or have feedback? Email us at &lt;a href="mailto:sean.uuong@gmail.com">sean.uuong@gmail.com&lt;/a>.&lt;/p>
+ &lt;p>When reporting a bug, please include your iPhone model, iOS version, and steps to reproduce.&lt;/p>
+&lt;/div>
+&lt;div class="card">
+ &lt;h2>FAQs&lt;/h2>
+ &lt;h3>Does the app require an account?&lt;/h3>
+ &lt;p>No—StrideBound works without any sign‑in.&lt;/p>
+ &lt;h3>Why does the app ask for location?&lt;/h3>
+ &lt;p>We use your location to calculate distance, pace, and draw your route map &lt;strong>only while a run is active&lt;/strong> (including if you background the app mid-run).&lt;/p></description></item></channel></rss>
